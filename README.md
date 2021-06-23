@@ -15,4 +15,5 @@ I am currently learning more advanced technologies such as
 - Node.js  
 - npm  
 - Webpack 
-- and more with help from open source full stack curriculum - [The Odin Project](https://www.theodinproject.com/)
+
+and more with help from open source full stack curriculum - [The Odin Project](https://www.theodinproject.com/)
