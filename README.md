@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-> Im front end web developer and designer.
+Im front end web developer and designer.
 
 I have over two years experience building and designing web projects. I work efficiently with  
 - HMTL  
