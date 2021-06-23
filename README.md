@@ -6,6 +6,7 @@ I have over two years experience building and designing web projects. I work eff
 - HMTL  
 - CSS  
 - JavaScript  
+
 At the moment I am focusing on modern Javascript. Check my most recent project [~~Calculator~~](https://github.com/karolisdavli/calculator) [Digital Library](https://github.com/karolisdavli/library).
 
 I believe there is always things to learn, especially in web development.  
