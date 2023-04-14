@@ -1,19 +1,11 @@
 ### Hello there 👋
 
-Im front end developer and designer.
+I'm Karolis Davli, a user interface designer and developer. I love crafting practical and fun web apps accessible for everyone.
 
-I have over a year experience building and designing web projects. I work efficiently with  
+Stack I work efficiently with  
 - HMTL  
 - CSS  
-- JavaScript  
+- JavaScript
+- NextjJS
+- ChakraUI
 
-At the moment I am focusing on modern Javascript. Check my most recent project [~~Calculator~~](https://github.com/karolisdavli/calculator) [~~Digital Library~~](https://github.com/karolisdavli/library) Vanila JS rendered [Restaurant Page](https://karolisdavli.github.io/restaurant-page/).
-
-I believe there is always things to learn, especially in web development.  
-I am currently learning more advanced technologies such as  
-- React.js  
-- Node.js  
-- npm  
-- Webpack 
-
-and more with help from open source full stack curriculum - [The Odin Project](https://www.theodinproject.com/)
