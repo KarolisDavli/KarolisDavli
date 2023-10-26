@@ -6,6 +6,6 @@ Stack I work efficiently with
 - HMTL  
 - CSS  
 - JavaScript
-- NextjJS
+- NextJS
 - ChakraUI
 
